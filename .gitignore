@@ -1,0 +1,69 @@
+# Created by .ignore support plugin (hsz.mobi)
+.war
+*.ear
+*.class
+.m2/
+# eclipse specific git ignore
+*.pydevproject
+.project
+*.project
+*.project*
+*/.project
+/**/.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+virtuoso-test-results/
+target/
+build/
+logs/
+out/
+classes/
+content-api-2.pid
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# IntelliJ on OSX
+*.iml
+*/*.iml
+/**/*.iml
+.DS_Store
+.idea
+.gradle
+#ignore thumbnails created by windows
+Thumbs.db
+
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.cache
+*.ilk
+*.log
+*.dll
+*.lib
+*.sbr
+*.hprof
